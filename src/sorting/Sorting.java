@@ -31,6 +31,8 @@ public class Sorting {
 	    sort(array, start, end-1);
 	  }
 	}
+	
+	
 	else if(start == end){
 	  return array;
 	}
